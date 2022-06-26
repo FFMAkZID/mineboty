@@ -1,14 +1,14 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "56074",
-    "name": "kartik",
+    "ip": "raksempires.ddns.net",
+    "port": "19130",
+    "name": "bot",
     "password": "",
     "auto-night-skip": "false",
-    "prefix": "",
-    "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
+    "prefix": ":;",
+    "login-enabled": "true",
+    "register-cmd": "/register maxtolol",
+    "login-cmd": "/login? maxtolol",
+    "loginmsg": "akhirnya sukses",
     "auto-reconnect": "true",
     "web": "true"
     
